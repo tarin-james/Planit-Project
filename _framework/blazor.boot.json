@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PlanIt",
   "resources": {
-    "hash": "sha256-EoRfCegd2hEqkgG23ZTENqyRQOrBk8EJmxXtw2RO5ZE=",
+    "hash": "sha256-CRBmG3bXYTK1XNme/dna+txWzwYw07NAtt7mOPtJdJQ=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "Microsoft.AspNetCore.Components.Forms.yro7n2ks67.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -19,7 +19,7 @@
       "Microsoft.Extensions.Primitives.8omryeirak.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.9qy0ggsguk.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.heoad7mujs.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
-      "PlanIt.qcp4x084od.wasm": "PlanIt.wasm",
+      "PlanIt.mkca7nzh79.wasm": "PlanIt.wasm",
       "System.Collections.Concurrent.dawiyiloz7.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.fmuw9rwuxs.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.NonGeneric.1gp2y6r7x2.wasm": "System.Collections.NonGeneric.wasm",
@@ -90,7 +90,7 @@
       "Microsoft.Extensions.Primitives.8omryeirak.wasm": "sha256-iOXJ6xMILdIdSWDD2fNHtnrXI0YtuWx4chp/bwgCVgc=",
       "Microsoft.JSInterop.9qy0ggsguk.wasm": "sha256-L0BDWxlhVcTchsC8JTqbqu0VQFTvluCsY+IaO2paS6w=",
       "Microsoft.JSInterop.WebAssembly.heoad7mujs.wasm": "sha256-99wG3VH14sWkwPaF5rX6YAcJvtAhDuqonwihvj2m5HA=",
-      "PlanIt.qcp4x084od.wasm": "sha256-WpquX14iq5VeE8trPEiUmEAYABDukueYoUZ95jHz4Iw=",
+      "PlanIt.mkca7nzh79.wasm": "sha256-JvFrHVSlBLEyN8d+4BjjlEu8t2wrONZvrOUmkJm6ndI=",
       "System.Collections.Concurrent.dawiyiloz7.wasm": "sha256-C1JK1YRz1CSU6IpXorTjxRfAoWnchZ67PGPRexQl3G0=",
       "System.Collections.Immutable.fmuw9rwuxs.wasm": "sha256-+Sf0wE7mPP3VglZd5ONFBigNdvj1HHWRIf5u9wVmRlw=",
       "System.Collections.NonGeneric.1gp2y6r7x2.wasm": "sha256-r2gzeXVp7c6Ehrl+YTbsbaz9mlDCg535LfslZls2Wpg=",
